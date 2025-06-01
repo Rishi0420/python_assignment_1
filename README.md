@@ -37,3 +37,16 @@ Enter First Name: Rushikesh
 Enter Last Name: Phatak
 hello,  Rushikesh Phatak ! Welcome to the Python program.
 
+
+---
+
+## Files Included:
+- `task1.py` – Basic Mathematical Operations
+- `task2.py` – Personalized Greeting
+
+---
+
+## How to Run:
+Use any Python IDE or terminal:
+python task1.py
+python task2.py
